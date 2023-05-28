@@ -1,3 +1,6 @@
 [submodule "UberEats-User"]
 	path = UberEats-User
 	url = https://github.com/r2510/UberEats-User.git
+[submodule "UberEats-Courier"]
+	path = UberEats-Courier
+	url = https://github.com/r2510/UberEats-Courier.git
